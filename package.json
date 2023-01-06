@@ -4,7 +4,7 @@
   "description": "Proxying a remote site to live reload injected static file changes onto the proxy",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "author": "Iskandar Reza",
   "license": "MIT",
