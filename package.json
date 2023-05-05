@@ -1,6 +1,6 @@
 {
   "name": "proxied-live-reload",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Proxying a remote site to live reload injected static file changes onto the proxy",
   "main": "app.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "Iskandar Reza",
   "license": "MIT",
   "dependencies": {
-    "browser-sync": "^2.27.11"
+    "browser-sync": "^2.29.1"
   }
 }
